@@ -1,1 +1,1 @@
-# python-exercises
+# python-exercises assignment problems
